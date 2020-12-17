@@ -1,0 +1,2 @@
+# androidstuido-SQLite-30
+ 
